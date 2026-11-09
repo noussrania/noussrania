@@ -13,9 +13,9 @@
 ## About me
 
 - Computer Engineering student at **Politecnico di Torino**
-- Open to **[TARGET ROLE — e.g. software engineering internships, Summer 2027]**
-- Currently building [WHAT YOU'RE BUILDING]
-- Learning [WHAT YOU'RE LEARNING]
+- Open to **[software engineering internships, Summer 2027]**
+- Currently building [Self-Driving Car]
+- Learning [AI]
 
 ## Tech stack
 
